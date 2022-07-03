@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Marques</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
 
 - 🌱 I’m currently learning **java, data structs and algoritms and others...**
