@@ -6,7 +6,7 @@
 - 📫 How to reach me **rodrigimix@protonmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigimix&show_icons=true&locale=en&layout=compact" alt="rodrigimix" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigimix&show_icons=true&locale=en&layout=compact" alt="rodrigimix" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigimix&" alt="rodrigimix" /></p>
