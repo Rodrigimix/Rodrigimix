@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Marques</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <div align="center">
   <a href="https://github.com/rodrigimic">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigimix&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
